@@ -26,4 +26,4 @@ todo
 ----
 currently, the prompt does not work and pages (the amount
 of items that can fit into the current width or length)
-needs to be recalculated.
+need to be recalculated.
