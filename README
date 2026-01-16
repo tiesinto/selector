@@ -1,7 +1,10 @@
 selector
 --------
 this is a fork of dmenu but with the ability to type
-removed (and the prompt removed). 
+removed (and the prompt removed), much like:
+  https://tools.suckless.org/dmenu/patches/no-input/
+however this is intended to be used without a prompt
+as well.
 
 
 installation
