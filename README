@@ -13,17 +13,14 @@ currently only tested on openbsd.
 
 installation
 ------------
-first edit config.mk to your liking, afterwards:
-  make clean
-
-then edit config.h to your liking and:
-  sudo make install
+first edit config.mk and config.def.h to your liking and:
+# make clean install
 
 
 running selector
 ----------------
 use it the same way you use dmenu:
-  printf 'one\ntwo' | selector -l 2 -i
+$ printf 'one\ntwo' | selector -l 2 -i
 
 
 todo
