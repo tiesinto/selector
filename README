@@ -1,0 +1,26 @@
+selector
+--------
+this is a fork of dmenu but with the ability to type
+removed (and the prompt removed). 
+
+
+installation
+------------
+first edit config.mk to your liking, afterwards:
+  make clean
+
+then edit config.h to your liking and:
+  sudo make install
+
+
+running selector
+----------------
+use it the same way you use dmenu:
+  printf 'one\ntwo' | selector -l 2 -i
+
+
+todo
+----
+currently, the prompt does not work and pages (the amount
+of items that can fit into the current width or length)
+needs to be recalculated.
