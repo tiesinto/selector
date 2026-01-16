@@ -8,7 +8,7 @@ as well. the ability to make multiple selections has
 also been removed (i didnt even know you could do
 that until i started this project).
 
-currently only tested on openbsd.
+currently only tested on openbsd with dwm on xenocara.
 
 
 installation
