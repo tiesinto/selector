@@ -4,7 +4,9 @@ this is a fork of dmenu but with the ability to type
 removed (and the prompt removed), much like:
   https://tools.suckless.org/dmenu/patches/no-input/
 however this is intended to be used without a prompt
-as well.
+as well. the ability to make multiple selections has
+also been removed (i didnt even know you could do
+that until i started this project).
 
 
 installation
