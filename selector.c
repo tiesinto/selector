@@ -276,6 +276,16 @@ match(void)
 	calcoffsets();
 }
 
+/*
+ * TODO to add:
+ * ^d
+ * ^u
+ * ^f
+ * ^b
+ * pgdn
+ * pgup
+ */
+
 static void
 keypress(XKeyEvent *ev)
 {
